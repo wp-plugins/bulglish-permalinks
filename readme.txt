@@ -3,8 +3,8 @@ Contributors: studioreforma
 Donate link: http://talkingaboutthis.eu/
 Tags: bulgarian, bulgarian permalink, cyrillic, slugs, transliteration 
 Requires at least: 3.0.1
-Tested up to: 3.9.0
-Stable tag: 1.1.0
+Tested up to: 4.1.0
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,9 @@ It will also work for Russian permalinks, as it matches all the letters in the R
 
 == Changelog ==
 
+= 1.2.0 =
+* Works on front end saving of posts as well
+
 = 1.1.0 =
 * Added missing letters from Russian alphabet
 
@@ -44,6 +47,9 @@ It will also work for Russian permalinks, as it matches all the letters in the R
 
 
 == Upgrade Notice ==
+
+= 1.2.0 =
+Will work on front-end saving of posts as well
 
 = 1.1.0 =
 Added Russian letters
